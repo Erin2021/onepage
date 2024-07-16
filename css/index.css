@@ -234,7 +234,7 @@ header .main_visual{
   border: 15px solid #45392E;
   box-sizing: border-box;
   border-radius: 390px;
-  background:url(image/background1.png) no-repeat center center;
+  background:url(../image/background1.png) no-repeat center center;
   background-size: 2000px;
   background-color: #fff;
   overflow: hidden;
